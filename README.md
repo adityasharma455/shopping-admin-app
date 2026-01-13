@@ -10,19 +10,19 @@ This app allows admins to manage products, categories, banners, and real-time or
 
 | AdminLogIn | AdminSignUp | AdminDashboardScreen | AdminProfileScreen |
 |-----|------------|--------|------------|
-| ![AdminLogIn](screenshots./AdminLogIn.jpeg) | ![AdminSignUp](screenshots./AdminSignUp.jpeg) | ![AdminDashboardScreen](screenshots./AdminDashboardScreen.jpeg) | ![AdminProfileScreen](screenshots./AdminProfileScreen.jpeg) | 
+| ![AdminLogIn](screenshots/AdminLogIn.jpeg) | ![AdminSignUp](screenshots/AdminSignUp.jpeg) | ![AdminDashboardScreen](screenshots/AdminDashboardScreen.jpeg) | ![AdminProfileScreen](screenshots/AdminProfileScreen.jpeg) | 
 
 |  AdminSignOutScreen  | AdminOrdersStateScreen | AdminOrderStateAfterConfirmed | SuccessfullyDeliveredState | 
 |-----|------------|--------|------------|
-| ![AdminSignOutScreen](screenshots./AdminSignOutScreen.jpeg) | ![AdminOrdersStateScreen](screenshots./AdminOrdersStateScreen.jpeg) | ![AdminOrderStateAfterConfirmed](screenshots./AdminOrderStateAfterConfirmed.jpeg) | ![SuccessfullyDeliveredState](screenshots./SuccessfullyDeliveredState.jpeg) |
+| ![AdminSignOutScreen](screenshots/AdminSignOutScreen.jpeg) | ![AdminOrdersStateScreen](screenshots/AdminOrdersStateScreen.jpeg) | ![AdminOrderStateAfterConfirmed](screenshots/AdminOrderStateAfterConfirmed.jpeg) | ![SuccessfullyDeliveredState](screenshots/SuccessfullyDeliveredState.jpeg) |
 
 | AllProductScreen | ProductSearchState | ProductDetailsScreen | EditProductScreen | DeleteProduct |   
 |-----|------------|--------|------------|--------|
-| ![AllProductScreen](screenshots./AllProductScreen.jpeg) | ![ProductSearchState](screenshots./ProductSearchState.jpeg) | ![ProductDetailsScreen](screenshots./ProductDetailsScreen.jpeg) | ![EditProductScreen](screenshots./EditProductScreen.jpeg) | ![DeleteProduct](screenshots./DeleteProduct.jpeg) |
+| ![AllProductScreen](screenshots/AllProductScreen.jpeg) | ![ProductSearchState](screenshots/ProductSearchState.jpeg) | ![ProductDetailsScreen](screenshots/ProductDetailsScreen.jpeg) | ![EditProductScreen](screenshots/EditProductScreen.jpeg) | ![DeleteProduct](screenshots/DeleteProduct.jpeg) |
 
 | CategoryManageScreen | AddCategoryScreen | ManageBannersScreen | AddBannerScreen | DeleteProduct |   
 |-----|------------|--------|------------|--------|
-| ![CategoryManageScreen](screenshots./CategoryMangaeScreen.jpeg) | ![AddCategoryScreen](screenshots./AddCategoryScreen.jpeg) | ![ManageBannersScreen](screenshots./MangaeBannersScreen.jpeg) | ![AddBannerScreen](screenshots./AddBannerScreen.jpeg) | ![DeleteProduct](screenshots./DeleteProduct.jpeg) |
+| ![CategoryManageScreen](screenshots/CategoryMangaeScreen.jpeg) | ![AddCategoryScreen](screenshots/AddCategoryScreen.jpeg) | ![ManageBannersScreen](screenshots/MangaeBannersScreen.jpeg) | ![AddBannerScreen](screenshots/AddBannerScreen.jpeg) | ![DeleteProduct](screenshots/DeleteProduct.jpeg) |
 
 
 🚀 Features
