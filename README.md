@@ -18,7 +18,7 @@ This app allows admins to manage products, categories, banners, and real-time or
 
 | AllProductScreen | ProductSearchState | ProductDetailsScreen | EditProductScreen | DeleteProduct |   
 |-----|------------|--------|------------|--------|
-| ![AllProductScreen](screenshots/AllProductScreen.jpeg) | ![ProductSearchState](screenshots/ProductSearchState.jpeg) | ![ProductDetailsScreen](screenshots/ProductDetailsScreen.jpeg) | ![EditProductScreen](screenshots/EditProductScreen.jpeg) | ![DeleteProduct](screenshots/DeleteProduct.jpeg) |
+| ![AllProductScreen](screenshots/AllProductScreen.jpeg) | ![ProductSearchState](screenshots/ProuductSearchState.jpeg) | ![ProductDetailsScreen](screenshots/ProductDetailsScreen.jpeg) | ![EditProductScreen](screenshots/EditProductScreen.jpeg) | ![DeleteProduct](screenshots/DeleteProduct.jpeg) |
 
 | CategoryManageScreen | AddCategoryScreen | ManageBannersScreen | AddBannerScreen | DeleteProduct |   
 |-----|------------|--------|------------|--------|
